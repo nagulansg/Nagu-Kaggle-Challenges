@@ -1,3 +1,3 @@
 # Nagu-github-portfolio
 
-Kaggle competitions and others
+Kaggle competitions, BTMA final project
