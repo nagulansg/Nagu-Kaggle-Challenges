@@ -1,6 +1,6 @@
 # Nagu-github-portfolio
 
-I am going to try improving my position with time  and learn more about effectively applying algorithms. Essentially play around with the data before I adjust any algorithm parameters.
+I am going to try improving my position with time  and learn more about effectively applying algorithms like knowing when to favor a particular one. In addition I will play around with the features before I adjust any algorithm parameters.
 
 ### Kaggle Tabular Playground August Series 
 - A company has completed a large testing study for different product prototypes. I used this data to build a model that predicts                                          product failures.
