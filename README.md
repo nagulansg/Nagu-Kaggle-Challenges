@@ -8,5 +8,4 @@ I am going to try improving my position with time  and learn more about effectiv
 ### Kaggle Tabular Playground September Series 
 - "The task for this month's competitions is a bit more complicated. Not only are there six countries and four books to                                                   forecast, but you're being asked to forecast sales during the tumultuous year 2021." - I built a model to predict book sales                                             when conditions were far from the ordinary. Used xgboost and learnt lots about when to, and when not to use it.
 
-### Kaggle Titanic Survival Predictions
-- In progress. Will be doing logistic regression first, and then check the performance of KNN - surely people close together must have had similar outcomes?
+### Last one is still in progress
